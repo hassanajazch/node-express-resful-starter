@@ -1,10 +1,12 @@
 # Node - Express - RESTFUL - STARTER
+------------------------------------------------------------------------
+----------
 
 Starter kit for making RESTful API in NodeJS.
-ES6 + ExpressJS + SequalizeJS + Mocha + Chai + Superagent + Clustering.
-Integration of Socekts, Chromless, Job Scheduling coming soon....
-------------------------------------------------------------------------
 
+ES6 + ExpressJS + SequalizeJS + Mocha + Chai + Superagent + Clustering.
+
+Integration of Socekts, Chromless, Job Scheduling coming soon....
 
 ----------
 
